@@ -1,8 +1,13 @@
 import { Button, Stack, TextField, Typography } from '@mui/material'
 import { Box } from '@mui/system'
-import React from 'react'
+import React, { useState } from 'react'
 
 const SearchExercises = () => {
+  const [search, setSearch] = useState('')
+  const handleSearch = async () => {
+
+  }
+  
   return (
     <Stack alignItems="center" mt="37px" justifyContent="center" p="20px">
       <Typography fontWeight={700} mb="50px" textAlign="center" sx={{ fontSize: { lg: '44px', xs: '30px' } }}>
