@@ -7,7 +7,7 @@ import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import ExerciseDetail from './pages/ExerciseDetail'
 import Footer from './components/Footer'
-
+//vcxcv
 const App = () => {
     return (
         <Box width="400px" sx={{ width: { xl: '1488px'}}} m="auto">

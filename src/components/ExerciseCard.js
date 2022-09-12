@@ -18,6 +18,9 @@ const ExerciseCard = ({ exercise }) => {
             pb="10px" textTransform="capitalize" fontSize="22px">
                 {exercise.name}
             </Typography>
+            <Typography fontSize="15px" color="#ffa9a9" sx={{textDecoration: 'underline'}}>
+                click for more info
+            </Typography>
         </Link>
     )
 }
