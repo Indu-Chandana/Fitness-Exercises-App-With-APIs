@@ -10,8 +10,5 @@ With the functionality to choose exercise categories and specific muscle groups,
 5. And When I click some field, ofter that It will scroll to that location. (href="#ex" id="ex")
 6. Pagination 
 7. MUI design
-Yy
-
-Urb
 
 
