@@ -11,4 +11,4 @@ With the functionality to choose exercise categories and specific muscle groups,
 6. Pagination 
 7. MUI design
 
-ds
+
